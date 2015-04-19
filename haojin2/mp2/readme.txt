@@ -1,9 +1,8 @@
 To run code:
-1. Extract .zip file
-2. go to the directory
-3. type "make"
-4. run "./chord"
-5. to output into a file, use "./chord -g filename" instead
+1. go to the directory
+2. type "make"
+3. run "./chord"
+4. to output into a file, use "./chord -g filename" instead
 
 Accepted instruction format
 1. join p	join node with identifier p in to the system
