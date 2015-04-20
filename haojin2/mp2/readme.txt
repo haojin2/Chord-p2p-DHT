@@ -1,3 +1,11 @@
+Included in the .zip file:
+1. source code files: main.cpp, message.cpp & node.cpp
+2. Makefile
+3. report in pdf format
+4. this very file you are currently reading
+
+Please unzip before running
+
 To run code:
 1. go to the directory
 2. type "make"
