@@ -20,3 +20,6 @@ Accepted instruction format
 5. show all	show all the keys stored on all nodes in the system
 6. count	print the total count of messages exchanged in the system till the last instruction
 7. quit		quit the system
+
+Warning: Any unpermitted usage of this piece of code may result in serious consequence, such as violation of student code.
+Please contact me if you have any questions or concerns.
